@@ -1,0 +1,53 @@
+.table1,th,td{
+    text-align: center;
+    border-collapse: collapse;
+    
+}
+.high,table{
+    border: 3px solid black;
+}
+h2,h3,.normal{
+      text-align: center;
+}
+
+.table-caption1{
+    margin-left: 320px;
+}
+.table-caption2{
+    margin-right: 10px;
+}
+.year{
+    position: relative;
+    left: 350px;
+}
+.roomno{
+    position: relative;
+    left:800px;
+    bottom: 55px;
+}
+.table1{
+    position: relative;
+    bottom: 60px;
+}
+.sf{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.subject1{
+    font-size: 20px;
+    position: relative;
+    left: 130px;
+    bottom: 20px;
+}
+.subject2{
+    font-size: 20px;
+    position: relative;
+    right: 90px;
+    bottom: 20px;
+}
+.table2,th,td{
+    border-collapse: collapse;
+    text-align: left;
+}
+
